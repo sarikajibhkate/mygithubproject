@@ -1,2 +1,2 @@
 # mygithubproject
-this is github learning sessoin
+this is github learning session
